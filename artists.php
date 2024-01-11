@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="sidebar">
-<h2>Şarkıcılar</h2>
+<h2>Sanatçılar</h2>
     </div>
     <div class="content">
         <h2>Sanatçı Ekle</h2>
