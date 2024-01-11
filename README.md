@@ -1,0 +1,1 @@
+Veritabanı Yönetim Sistemleri Spotify Database Sisteminin Basitleştirilmiş Paneli
