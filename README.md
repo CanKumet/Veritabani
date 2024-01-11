@@ -1,1 +1,1 @@
-Veritabanı Yönetim Sistemleri Spotify Database Sisteminin Basitleştirilmiş Paneli
+Veritabanı Yönetim Sistemleri Dersi İçin Spotify Database Sisteminin Basitleştirilmiş Paneli
